@@ -1,4 +1,7 @@
-04.08.216 : Version 2.1.0
+07.08.2016 : Version 2.1.1
+- fix problem with first installation
+
+04.08.2016 : Version 2.1.0
 - Added new script to download video and audio file (resume, retry, stop and much more functions)
 - Ability to add folders, locale and remote, in Playlist Manager
 - Ability to add Repository PM (remote folders)
@@ -9,12 +12,12 @@
 
 - KLdownloader script based on the script:fileDownloader.py-0.4.0 - http://pydoc.net/Python/fileDownloader.py/0.4.0/
 
-09.07.216 : Version 2.0.5
+09.07.2016 : Version 2.0.5
 - Added option to download video file in Playlist Manager section
 - Change updates download function: now the updates are downloaded from github
 - Added Greeks TV channels
 
-08.07.216 : Version 2.0.4
+08.07.2016 : Version 2.0.4
 - Added script to install the dependencies, if not installed
 
 05.07.216 : Version 2.0.3
