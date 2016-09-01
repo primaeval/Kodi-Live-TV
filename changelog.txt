@@ -1,3 +1,21 @@
+01.09.2016 : Version 2.1.4
+- semplificazione delle opzioni per l'inserimento di liste, cartelle ed xml al Playlist Manager (ora i repo PM si aggiungono come XML, l'identificazione è automatica)
+- possibilità di rinominare i favoriti
+- possibilità di aggiungere collegamenti a file multimediali ai favoriti
+- corretto percorso della cartella download di default
+- visualizzazione nome delle liste nei risultati di ricerca relativi alle liste
+- ricerca liste remote in file di cache
+- aumento tempo di cache liste a 2 ore
+- tempo cache liste per ricerca 3 ore
+
+27.08.2016 : Version 2.1.3
+- Resarch page: fix download file name
+- fix italian channels URL
+
+26.08.2016 : Version 2.1.2
+- Playlist Manager: adedd support xml kodilive to create virtual folder in xml file 
+- Playlist Manager: added research function (in folder, m3u list and xml kodilive)
+
 07.08.2016 : Version 2.1.1
 - fix problem with first installation
 
@@ -9,7 +27,6 @@
 - Now checking for updates is only manual
 - Option to restore factory settings
 - Fixed some bugs and code improvements
-
 - KLdownloader script based on the script:fileDownloader.py-0.4.0 - http://pydoc.net/Python/fileDownloader.py/0.4.0/
 
 09.07.2016 : Version 2.0.5
@@ -20,11 +37,11 @@
 08.07.2016 : Version 2.0.4
 - Added script to install the dependencies, if not installed
 
-05.07.216 : Version 2.0.3
+05.07.2016 : Version 2.0.3
 - Integrated Simplejson library
 - Allert to start VPN (Teleboy)
 
-04.07.216 : Version 2.0.2
+04.07.2016 : Version 2.0.2
 - Added option for open Teleboy stream in VLC Media Player: VLC required, work in Linux and Windows (tested in Windows 10)
 
 27.06.2016 : Version 2.0.1
