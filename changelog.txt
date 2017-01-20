@@ -1,3 +1,13 @@
+20.01.2017
+- update channels
+- fix Teleboy login
+- update f4mProxy (version 2.8.0)
+- added info checker for IPTV list
+- fix research page
+- added support for vidto.me (SOD required)
+- ability to change the file name to download
+- character encoding fix
+
 22.12.2016 : Version 2.1.7
 - aggiornamento canali
 - aggiornamento f4mProxy integrato (versione 2.7.9)
